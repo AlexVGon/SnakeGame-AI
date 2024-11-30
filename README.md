@@ -39,7 +39,7 @@ O progresso do treinamento é visualizado em tempo real:
 ## Resultado
 <div> 
 <pre>
-                     <b>Primeiras Gerações</b>                                                  <b>Centésima Geração</b>
+                <b>Primeiras Gerações</b>                                 <b>Centésima Geração</b>
 </pre>
 <img src="https://github.com/AlexVGon/SnakeGame-AI/blob/main/assets/Initial.gif?raw=true" width="49%" align='left'> 
 <img src="https://github.com/AlexVGon/SnakeGame-AI/blob/main/assets/Trained.gif?raw=true" width="49%" align='right'> 
